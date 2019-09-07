@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="044a4668-ac53-4ac5-b57a-66f48b8f60fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/personal.jemdoc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/publication.jemdoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MENU" beforeDir="false" afterPath="$PROJECT_DIR$/MENU" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/index.jemdoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/personal.jemdoc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +37,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/personal.jemdoc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="390">
+              <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -140,7 +137,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567805807769</updated>
-      <workItem from="1567805809030" duration="10494000" />
+      <workItem from="1567805809030" duration="10671000" />
     </task>
     <task id="LOCAL-00001" summary="xz">
       <created>1567806975167</created>
@@ -153,7 +150,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10494000" />
+    <option name="totallyTimeSpent" value="10671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -228,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/personal.jemdoc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="390">
+          <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
         </state>
       </provider>
     </entry>
