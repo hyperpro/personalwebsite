@@ -1,9 +1,54 @@
-#jemdoc srel
-~~~
-{}{img_left}{./personal.jpg}{photo}{150px}{200px}{}
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: nofooter
 = Xu Zhang
-Computer Science\n
-([tinkleidea@gmail.com])
-\n
-[https://scholar.google.com.hk/ Google Scholar]
+
 ~~~
+{}{img_left}{./photo_me.png}{photo}{185px}{230px}{}
+*Xu Zhang (张旭)* \n
+[http://cs.uchicago.edu/ Graduate Student] \n
+[http://cs.uchicago.edu/ Department of Computer Science]\n
+[http://www.uchicago.edu/ University of Chicago] \n
+
+Office: Room 283, John Crerar Library \n
+Address: 5730 S. Ellis Avenue, Chicago, IL, 60637 \n
+E-mail: [zhangxu@uchicago.edu zhangxu AT uchicago.edu] \n
+~~~
+
+== About me
+
+My research interests are in Optimization, Telecommunication and Computer Networks/Systems.
+
+My recent works focus on the QoS/QoE optimization of *Wireless* and *Computer Networks*.
+
+== Education
+
+- [http://www.uchicago.edu/  University of Chicago], Chicago, USA. Ph.D. Student, Computer Science (Current).
+- [http://www.fudan.edu.cn/ Fudan University], Shanghai, China: M.Sc., Computer Science.
+    -- Thesis: Multi-View Video Streaming over Multi-Antenna Wireless Systems ([https://drive.google.com/open?id=16DDwR_CSG7da-pmTAdRKupLbpnDvUTlU in Chinese])
+    -- Adviser: Prof. [http://homepage.fudan.edu.cn/xinw2013/ Xin Wang], Prof. [http://medianet.azurewebsites.net/yuedong-xu/ Yuedong Xu], Prof. [https://people.cs.umass.edu/~jxiong Jie Xiong].
+- [http://www.fudan.edu.cn/ Fudan University], Shanghai, China: B.Sc., Computer Science.
+
+== Recent News
+
+- Aug 2019: Our new paper on energy saving in 3D video transmission was accepted for publication at *IEEE TGCN* 2019:\n
+    [https://people.cs.uchicago.edu/~zhangxu/ PoM: Power-Efficient Multi-View Video Streaming Over Multi-Antenna Wireless Systems].
+
+- May 2019: Our paper about web service optimization was accepted for publication at *ACM SIGCOMM* 2019:\n
+    [https://dl.acm.org/citation.cfm?id=3342089 E2E: Embracing User Heterogeneity to Improve Quality of Experience on the Web].
+
+- Sept 2017: Our paper was accepted for publication at *ACM CoNEXT* 2017:\n
+    [https://dl.acm.org/citation.cfm?doid=3143361.3143377 AWL: Turning Spatial Aliasing From Foe to Friend for Accurate WiFi Localization].
+
+- Nov 2016: Our new paper on massive MIMO system at *IEEE INFOCOM* 2017:\n
+    [https://ieeexplore.ieee.org/abstract/document/8056988/ BUSH: Empowering Large-Scale MU-MIMO in WLANs With Hybrid Beamforming].
+
+- July 2016: Our paper on fast shortest-path query was accepted for publication at *IEEE ICNP* 2016:\n
+    [https://ieeexplore.ieee.org/abstract/document/7784419 Fast shortest-path queries on large-scale graphs].
+
+- July 2016: Our paper on high-quality 3D video transmission was accepted at *IEEE TMM* 2016:\n
+    [https://ieeexplore.ieee.org/abstract/document/7944623/ MuVi: Multi-view Video Aware Transmission Over MIMO Wireless Systems].
+
+ - May 2016: Our paper about power consumption of 3D video transmission was accepted for publication and oral presentation at *IEEE ICME* 2017:\n
+    [https://ieeexplore.ieee.org/abstract/document/7552911 Power efficient multi-view video streaming over multi-antenna wireless systems].
+
+

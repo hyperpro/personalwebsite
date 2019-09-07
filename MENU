@@ -1,1 +1,4 @@
-sfe
+MENU
+    Home                [index.html]
+    Publication         [publication.html]
+    Personal            [personal.html]

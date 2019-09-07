@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{publication.html}
+# jemdoc: nofooter
+= Publications
+
+== Journal Papers
+
+. [https://people.cs.uchicago.edu/~zhangxu/ PoM: Power-Efficient Multi-View Video Streaming Over Multi-Antenna Wireless Systems]\n
+        with Zhe Chen, Yuedong Xu, Yu Zhu and Xin Wang\n
+        /IEEE Transactions on Green Communications and Networking/ *(TGCN)*, 2019.\n
+        [https://ieeexplore.ieee.org/abstract/document/7552911 Conference version] in /Proc. of *IEEE ICME*/, 2016. (with *Oral* presentation)\n
+        \n
+. [https://ieeexplore.ieee.org/abstract/document/7944623/ MuVi: Multi-view Video Aware Transmission Over MIMO Wireless Systems]\n
+    with Zhe Chen, Xin Zhang, Yuedong Xu, Jue Xiong, Yu Zhu and Xin Wang\n
+    /IEEE Transactions on Multimedia/ *(TMM)*, 2017.\n
+    is reviewed by [http://mmc.committees.comsoc.org/files/2018/01/IEEE-ComSoc-MMTC-Comm-Review-Dec-2017-Issue-1.pdf IEEE MMTC] as a *high-quality* paper.
+
+== Conference Papers
+
+. [https://dl.acm.org/citation.cfm?id=3342089 E2E: Embracing User Heterogeneity to Improve Quality of Experience on the Web]\n
+    with Siddhartha Sen, Daniar Kurniawan, Haryadi Gunawi, Junchen Jiang\n
+    /Proceedings of the 2019 ACM SIGCOMM Conference/ *(SIGCOMM)*, 2019. \[[https://people.cs.uchicago.edu/~zhangxu/e2e.html Website]\]\n
+    \n
+. [https://dl.acm.org/citation.cfm?doid=3143361.3143377 AWL: Turning Spatial Aliasing From Foe to Friend for Accurate WiFi Localization]\n
+    with Zhe Chen, Zongmin Li, Guorong Zhu, Yuedong Xu, Jie Xiong and Xin Wang\n
+    /International Conference on emerging Networking EXperiments and Technologies/ *(CoNEXT)*, 2017.\n
+    \n
+. [https://ieeexplore.ieee.org/abstract/document/8056988/ BUSH: Empowering Large-Scale MU-MIMO in WLANs With Hybrid Beamforming]\n
+    with Zhe Chen, Sulei Wang, Yuedong Xu, Jie Xiong, and Xin Wang\n
+    /IEEE Conference on Computer Communications/ *(INFOCOM)*, 2017.\n
+    \n
+. [https://ieeexplore.ieee.org/abstract/document/7784419 Fast shortest-path queries on large-scale graphs]\n
+    with Qiongwen Xu, Jin Zhao, Xin Wang and Tilman Wolf\n
+    /Proceedings of IEEE International Conference on Network Protocols/ *(ICNP)*, 2016.

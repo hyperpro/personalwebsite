@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    
+    <title>E2E: Embracing User Heterogeneity to Improve Quality of Experience on the Web</title>
+
+    <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/scrolling-nav.css" />
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  
+  <body id="page-top">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#home">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#paper">Paper</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#poster">Poster</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#code">Code</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#demo">Demo</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#faq">FAQ</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Header -->
+    <header id="home">
+      <div class="container text-center">
+        <h1 class="mb-3"><strong>E2E: Embracing User Heterogeneity to Improve Quality of Experience on the Web</strong></h1>
+        <p class="lead mb-5">Xu Zhang, Siddhartha Sen, Daniar Kurniawan, Haryadi Gunawi, Junchen Jiang</p>
+        <table><tr>
+          <td><img src="img/e2e_website_1.pdf" class="img-fluid" alt="Responsive image" border=0></td>
+          <td><img src="img/e2e_website_2.pdf" class="img-fluid" alt="Responsive image" border=0></td>
+        </tr></table>
+      </div>
+    </header>
+
+    <!-- Paper Section -->
+    <section id="paper" class="bg-light">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 mx-auto mb-4">
+            <h2><strong>Paper</strong></h2>
+            <p>Conventional wisdom states that to improve quality of experience (QoE), web service providers should reduce the median or other percentiles of server-side delays. This work shows that doing so can be inefficient due to user heterogeneity in how the delays impact QoE. From the perspective of QoE, the sensitivity of a request to delays can vary greatly even among identical requests arriving at the services, because they differ in the wide-area network latency experienced prior to arriving at the service. In other words, saving 50ms of server-side delay affects different users differently.</p>
+            <p>This paper presents E2E, the first resource allocation system that embraces user heterogeneity to allocate server-side resources in a QoE-aware manner. Exploiting this heterogeneity faces a unique challenge: unlike other application-level properties of a web request (e.g., a user's subscription type), the QoE sensitivity of a request to server-side delays cannot be pre-determined, as it depends on the delays themselves, which are determined by the resource allocation decisions and the incoming requests. This circular dependence makes the problem computationally difficult.</p>
+            <p>We make three contributions: (1) a case for exploiting user heterogeneity to improve QoE, based on end-to-end traces from Microsoft's cloud-scale production web framework, as well a user study on Amazon MTurk; (2) a novel resource allocation policy that addresses the circular dependence mentioned above; and (3) an efficient system implementation with almost negligible overhead. We applied E2E to two open-source systems: replica selection in Cassandra and message scheduling in RabbitMQ. Using traces and our testbed deployments, we show that E2E can increase QoE (e.g., duration of user engagement) by 28%, or serve 40% more concurrent requets without any drop in QoE.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-10 mx-auto text-center">
+            <button type="button" class="btn btn-primary btn-lg"><a href="https://dl.acm.org/citation.cfm?id=3342089">Research Paper</a></button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Poster Section -->
+    <section id="poster">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+            <h2><strong>Poster</strong></h2>
+            <p class="lead">This part is under construction. A poster will be updated shortly.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Code Section -->
+    <section id="code" class="bg-light">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 mx-auto mb-4">
+            <h2><strong>Code</strong></h2>
+            <p class="lead">The codes will be released shortly.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-10 mx-auto text-center">
+            <button type="button" class="btn btn-primary btn-lg">Link to Code</button>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <!-- Demo Section -->
+    <section id="demo">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 mx-auto mb-4">
+            <h2><strong>Demo</strong></h2>
+            <p class="lead">The demo will be updated shortly.</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-10 mx-auto text-center">
+            <button type="button" class="btn btn-primary btn-lg">Link to Demo</button>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+    <!-- FAQ Section -->
+    <section id="faq" class="bg-light">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-10 mx-auto mb-4">
+            <h2><strong>Frequently Asked Questions</strong></h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-10 mx-auto">
+            <h4 class="text-success mb-3">Q1. Why is only one question here?</h4>
+            <p class="mb-5">A1: We are collecting questions. This part will be updated shortly </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="py-5 bg-dark">
+      <div class="container">
+        <p class="m-0 text-center text-white">Copyright &copy; Your Website 2019</p>
+      </div>
+    </footer>
+
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="js/scrolling-nav.js"></script>
+  
+  </body>
+</html>
