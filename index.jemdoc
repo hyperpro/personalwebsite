@@ -16,15 +16,10 @@ E-mail: [zhangxu@uchicago.edu zhangxu AT uchicago.edu] \n
 
 == About me
 
-*Research interests*:
- - Telecommunication: Architecture of next-generation telecommunication systems based on multi-user and massive MIMO.
- - Ubiquitous computing: Sensing algorithms and systems for health care, safety driving, etc.
- - Networked Systems: Improving the quality of user experience (QoE) of the applications on the networked systems.
+I am a PhD student at University of Chicago, advised by Prof. [https://people.cs.uchicago.edu/~junchenj/ Prof. Junchen Jiang].
+I am currently working on networked system by bridging the gap between user experience and system design.
+My research methodology is to use user study and theoretical modeling to reveal insights that will be verified by the real human beings who use our prototype implementation.
 
-*Research methodology*:
- - Theoretical modeling: Convex optimization and signal processing.
- - User study: Lab-based and in-the-wild user study for exploring how the system performance metrics affect the user QoE.
- - Prototype implementation: Building the proof-of-concept systems on open-source software and hardware, e.g., software-defined radios (USRP, WARP), microcontroller (STM32), distributed database (Cassandra), etc.
 
 == Education
 
@@ -35,6 +30,9 @@ E-mail: [zhangxu@uchicago.edu zhangxu AT uchicago.edu] \n
 - [http://www.fudan.edu.cn/ Fudan University], Shanghai, China: B.Sc., Computer Science.
 
 == Recent News
+
+- Dec 2020: Our new paper about video streaming optimization was accepted for publication at *NSDI* 2021:\n
+    [https://people.cs.uchicago.edu/~zhangxu/ SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity].\n
 
 - Apr 2020: Our new paper about safe driving was accepted for publication at *ACM IMWUT/UbiComp* 2020:\n
     [https://people.cs.uchicago.edu/~zhangxu/ V^2iFI: in-Vehicle Vital Sign Monitoring via Compact RF Sensing].\n

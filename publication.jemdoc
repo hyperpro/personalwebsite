@@ -21,12 +21,17 @@
 
 == Conference Papers
 
+. [https://people.cs.uchicago.edu/~zhangxu/ SENSEI: Aligning Video Streaming Quality with Dynamic User Sensitivity]\n
+        with Yiyang Ou, Siddhartha Sen, Junchen Jiang\n
+        /To appear in NSDI 2021/.\n
+        \n
+
 . [https://dl.acm.org/citation.cfm?id=3342089 E2E: Embracing User Heterogeneity to Improve Quality of Experience on the Web]\n
     with Siddhartha Sen, Daniar Kurniawan, Haryadi Gunawi, Junchen Jiang\n
     /Proceedings of the 2019 ACM SIGCOMM Conference/ *(SIGCOMM)*, 2019. \[[https://people.cs.uchicago.edu/~zhangxu/e2e.html Website]\]\n
     \n
 . [https://dl.acm.org/citation.cfm?doid=3143361.3143377 AWL: Turning Spatial Aliasing From Foe to Friend for Accurate WiFi Localization]\n
-    with Zhe Chen, Zongmin Li, Guorong Zhu, Yuedong Xu, Jie Xiong and Xin Wang\n
+    with Zhe Chen, Zhongmin Li, Guorong Zhu, Yuedong Xu, Jie Xiong and Xin Wang\n
     /International Conference on emerging Networking EXperiments and Technologies/ *(CoNEXT)*, 2017.\n
     \n
 . [https://ieeexplore.ieee.org/abstract/document/8056988/ BUSH: Empowering Large-Scale MU-MIMO in WLANs With Hybrid Beamforming]\n
