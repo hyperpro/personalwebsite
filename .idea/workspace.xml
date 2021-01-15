@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="044a4668-ac53-4ac5-b57a-66f48b8f60fa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jemdoc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/homepage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/homepage.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="044a4668-ac53-4ac5-b57a-66f48b8f60fa" name="Default Changelist" comment="xz">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/index.jemdoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/personal.jemdoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/publication.jemdoc" beforeDir="false" afterPath="$PROJECT_DIR$/publication.jemdoc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +87,9 @@
       <workItem from="1567805809030" duration="12372000" />
       <workItem from="1568078139611" duration="198000" />
       <workItem from="1590006810431" duration="4040000" />
-      <workItem from="1590011292601" duration="750000" />
+      <workItem from="1590011292601" duration="1191000" />
+      <workItem from="1610687587313" duration="1779000" />
+      <workItem from="1610690378370" duration="9000" />
     </task>
     <task id="LOCAL-00001" summary="xz">
       <created>1567806975167</created>
@@ -148,7 +140,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567823919780</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="xz">
+      <created>1590012115513</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590012115513</updated>
+    </task>
+    <task id="LOCAL-00009" summary="xz">
+      <created>1610689080948</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610689080948</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,38 +166,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="xz" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1590008156945">
+    <state x="429" y="123" key="CommitChangelistDialog2" timestamp="1610689080696">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590008156945" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1590008156944">
+    <state x="429" y="123" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1610689080696" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2" timestamp="1610689087743">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590008156944" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1590008156943">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590008156943" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1590008156945">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590008156945" />
-    <state x="403" y="91" key="SettingsEditor" timestamp="1590008084148">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="403" y="91" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1590008084148" />
-    <state width="365" height="445" key="SwitcherDM" timestamp="1590011694489">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="365" height="445" key="SwitcherDM/0.0.1680.1050@0.0.1680.1050" timestamp="1590011694489" />
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1590011746687">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590011746687" />
-    <state x="570" y="434" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1590008045040">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="570" y="434" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590008045040" />
+    <state x="440" y="262" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1610689087743" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/homepage$jemdoc.coverage" NAME="jemdoc Coverage Results" MODIFIED="1590008090532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
